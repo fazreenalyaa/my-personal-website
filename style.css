@@ -1,0 +1,68 @@
+body
+{
+   background-color:purple;
+
+}
+
+h1
+{
+   background-color:yellow;
+   font-size: 50px;
+   color:white;
+   border: solid;
+   border-color: #291BC
+   border-radius: 30px;
+}
+
+
+h2
+{
+   background-color:black;
+   font-size: 15px;
+   color:yellow;
+   font-family:'Niconne',cursive;
+
+}
+
+h3
+{
+   background-color:blue;
+   font-size: 15px;
+   color:black;
+   font-family:"Niconne",cursive;
+}
+
+h4
+{
+   background-color:grey;
+   font-size: 15px;
+   color:black;
+   font-family:'Niconne',cursive;
+}
+
+p
+{
+   background-color:DCD3FF
+   font-size:15px;
+   text-align:center;
+   color:pink;
+   font-family: 'Architects Daughter',cursive;
+
+}
+
+a:link, a:visited
+       {
+        background-color:turqoise
+        color:black;
+        text-align: center;
+        text-decoration:none;
+        border-radius: 25px;
+        padding:15px;
+       }
+
+
+a:hover,a:active
+       {
+           background-color: yellow
+           color:black;
+       }
